@@ -1,0 +1,10 @@
+#Ignore data related to security
+.env 
+
+#ignore .ipynb 
+.ipynb_checkpoints
+
+#ignore files
+test.py
+Untitled.ipynb 
+geckodriver.log 
